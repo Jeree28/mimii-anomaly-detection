@@ -1,0 +1,2 @@
+In Google Colab: File > Save a copy in GitHub (choose repo "mimii-anomaly-detection"),
+or File > Download > .ipynb, then upload it to this folder as notebook.ipynb.
